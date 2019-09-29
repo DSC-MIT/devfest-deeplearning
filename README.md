@@ -8,6 +8,7 @@ The links to the required notebooks are:
 4. [Sklearn](https://colab.research.google.com/drive/1Ip0JfYDzXqQJrXoPaw4M77Pg8i2pol_I)
 5. [MNIST using Keras](https://colab.research.google.com/drive/14OeP0srLDOAbfjx2IU7O-3PVbFISed04)
 6. [GANs](https://colab.research.google.com/drive/1Ey1JXlXVmgCSfQZIdcq6x0-wXYR2Zz2j)
+7. [Extra: LSTMs](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb)
 
 ## References
 
